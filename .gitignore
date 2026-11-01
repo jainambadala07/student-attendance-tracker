@@ -1,0 +1,14 @@
+﻿.venv/
+venv/
+__pycache__/
+*.pyc
+
+dataset/
+photos/
+model.yml
+labels.json
+attendance.db
+attendance*.csv
+
+.vscode/
+Thumbs.db
